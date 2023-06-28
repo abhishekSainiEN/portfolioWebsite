@@ -1,0 +1,55 @@
+
+
+body{
+  background-color: black;
+  color: beige;
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+  
+
+}
+a{
+    color: beige;
+    
+}
+.contact{
+    background-color: rgb(139, 30, 235);
+
+    text-align: end;
+    margin: 20px;
+    padding: 20px;
+}
+ .contact li{
+    display: inline;
+    padding: 20px;
+}
+img{
+    height: 20vh;
+    margin: 20px;
+    float: left;
+}
+h2{
+    margin: 20px;
+}
+ .con {
+    background-color: rgb(235, 139, 30);
+
+    text-align: center;
+    margin: 20px;
+    padding: 20px;
+
+}
+.con li{
+    display: inline;
+    padding: 20px;
+    
+
+} 
+.contain{
+    border: 2px solid beige;
+    margin: 30px;
+}
+
+
+
